@@ -24,4 +24,4 @@ data['HTS']=[['V','P','A'],['A','P','V']]
 
 #The adjacency matrix between each two levels in each hierarchical tree
 data['adjs']=[[PV,AP],[PA,VP]]
-'''
+```

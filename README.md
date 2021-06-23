@@ -2,6 +2,7 @@
 
 ![](https://github.com/joe817/img/blob/master/TGNN.png)
 
+```bash
 @INPROCEEDINGS{9338420,
   author={Qiao, Ziyue and Wang, Pengyang and Fu, Yanjie and Du, Yi and Wang, Pengfei and Zhou, Yuanchun},
   booktitle={2020 IEEE International Conference on Data Mining (ICDM)}, 
@@ -11,6 +12,7 @@
   number={},
   pages={432-441},
   doi={10.1109/ICDM50108.2020.00052}}
+```
 
 ## Basic requirements
 

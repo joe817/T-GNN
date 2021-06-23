@@ -2,6 +2,16 @@
 
 ![](https://github.com/joe817/img/blob/master/TGNN.png)
 
+@INPROCEEDINGS{9338420,
+  author={Qiao, Ziyue and Wang, Pengyang and Fu, Yanjie and Du, Yi and Wang, Pengfei and Zhou, Yuanchun},
+  booktitle={2020 IEEE International Conference on Data Mining (ICDM)}, 
+  title={Tree Structure-Aware Graph Representation Learning via Integrated Hierarchical Aggregation and Relational Metric Learning}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={432-441},
+  doi={10.1109/ICDM50108.2020.00052}}
+
 ## Basic requirements
 
 * python 3.7.7
@@ -25,3 +35,4 @@ data['HTS']=[['V','P','A'],['A','P','V']]
 #The adjacency matrix between each two levels in each hierarchical tree
 data['adjs']=[[PV,AP],[PA,VP]]
 ```
+
